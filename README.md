@@ -1,2 +1,2 @@
-# psyopmental.github.io
+# EHTAI.github.io
 EHT AI
